@@ -1,7 +1,5 @@
 <h1 align="center"> Data engineering projects </h1>
 
-![Machine and human as onr](https://github.com/leandro-raposo/projects/blob/1b00750869b9fda536b18f4be51234cc0e770a22/machine-learning.jpg)
-
 # Access here
 https://miro.com/app/board/uXjVPABfn2c=/?share_link_id=57138990598
 
