@@ -42,5 +42,5 @@ https://miro.com/app/board/uXjVPABfn2c=/?share_link_id=57138990598
 | :---: |
 
 # Contributors
-| [<img src="https://avatars.githubusercontent.com/u/40493928?v=4" width=115><br><sub>Leandro Raposo</sub>](https://github.com/brunojardim) |
+| [<img src="https://avatars.githubusercontent.com/u/40493928?v=4" width=115><br><sub>Bruno Jardim</sub>](https://github.com/brunojardim) |
 | :---: |
